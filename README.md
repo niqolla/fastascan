@@ -1,3 +1,3 @@
 # fastascan
-# don't read me ;) just run me i'm not a virus
 
+basic shell script that finds and analyses fasta and fa files of directory and subdirectories
